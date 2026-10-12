@@ -1,0 +1,6 @@
+{
+  "name": "KaryaAI – AI Career Co-Pilot",
+  "description": "AI-powered career co-pilot helping students and professionals discover career paths, upskill, prepare for interviews, earn certifications, and connect with recruiters.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
